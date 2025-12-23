@@ -1128,17 +1128,6 @@ Este sistema es un **prototipo de investigación**. Los diagnósticos automátic
 
 **Uso bajo tu propia responsabilidad.**
 
----
-
-## 👥 Equipo
-
-### Desarrolladores Principales
-
-- **Hardware & Firmware** - Especialista en sistemas embebidos
-- **Backend & IA** - Ingeniero de software + Data scientist
-- **Frontend** - Desarrollador web
-- **Investigación** - Médico cardiólogo
-
 ### Agradecimientos
 
 - Texas Instruments por el ADS1293
@@ -1147,28 +1136,6 @@ Este sistema es un **prototipo de investigación**. Los diagnósticos automátic
 - TensorFlow team
 - Comunidad open source
 
----
-
-## 📧 Contacto
-
-### Soporte Técnico
-
-- **Issues:** GitHub Issues
-- **Email:** soporte@drcorazon.com
-- **Forum:** https://forum.drcorazon.com
-
-### Colaboraciones
-
-Para colaboraciones académicas o comerciales:
-- **Email:** colaboraciones@drcorazon.com
-
-### Redes Sociales
-
-- **Twitter:** @DrCorazonECG
-- **LinkedIn:** Dr Corazón Project
-- **YouTube:** Dr Corazón Tutorials
-
----
 
 ## 📊 Estadísticas del Proyecto
 
@@ -1205,15 +1172,6 @@ Forks:                 🍴 (contribuye!)
 - **IEC 60601:** Seguridad dispositivos médicos
 - **HL7 FHIR:** Interoperabilidad de datos médicos
 - **DICOM:** Imágenes médicas
-
----
-
-## 🏆 Logros
-
-- ✅ **1er lugar** - Hackathon MedTech 2024
-- ✅ **Mención honorífica** - Feria de Ciencias Nacional
-- ✅ **Paper aceptado** - Conferencia IEEE EMBC 2025
-- ✅ **Patente en trámite** - Algoritmo de diagnóstico
 
 ---
 
