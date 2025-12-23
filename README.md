@@ -411,11 +411,11 @@ This system is a **research prototype**. Automatic diagnoses are **informative**
 ## 👥 Team & Contact
 
 ### Technical Support
-- **GitHub Issues**: https://github.com/your-username/dr-corazon/issues
-- **Email**: support@drcorazon.com
+- **GitHub Issues**: https://github.com/Daniel-Porras/Doctor_Corazon/issues
+- **Email**: anclavijod@unal.edu.co - dporrasa@unal.edu.co - jcaviedesb@unal.edu.co - scastanedal@unal.edu.co     
 
 ### Collaboration
-- **Email**: collaboration@drcorazon.com
+- **Email**: scastanedal@unal.edu.co
 
 ---
 
