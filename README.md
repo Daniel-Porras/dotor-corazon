@@ -997,39 +997,6 @@ Universidad enseña interpretación de ECG.
 ✅ Dashboard en tiempo real  
 ✅ Panel de administración  
 
-### Versión 2.1 (Q1 2025)
-
-- [ ] **Notificaciones push** - Alertas en móvil
-- [ ] **App móvil** - React Native o Flutter
-- [ ] **Exportar a PDF** - Reportes médicos
-- [ ] **Multi-idioma** - Inglés, Portugués
-- [ ] **Gráficas históricas** - Tendencias a largo plazo
-
-### Versión 2.2 (Q2 2025)
-
-- [ ] **Modo offline** - Funcionar sin internet
-- [ ] **Sincronización** - Cuando se recupera conexión
-- [ ] **Compresión de datos** - Reducir bandwidth
-- [ ] **Calibración automática** - Ajuste de offset
-- [ ] **Más clases de IA** - Fibrilación auricular, etc
-
-### Versión 3.0 (Q3 2025)
-
-- [ ] **Modo multi-ESP32** - Varios dispositivos simultáneos
-- [ ] **Balanceo de carga** - Distribución de procesamiento
-- [ ] **Modelo IA mejorado** - 10+ clases
-- [ ] **Integración HL7/FHIR** - Estándares médicos
-- [ ] **Validación clínica** - Estudios con IRB
-
-### Futuro (2026+)
-
-- [ ] **Certificación médica** - FDA, CE, INVIMA
-- [ ] **Edge computing** - Procesamiento en ESP32
-- [ ] **Blockchain** - Inmutabilidad de registros
-- [ ] **Integración EMR** - Epic, Cerner
-- [ ] **Comercialización** - Producto final
-
----
 
 ## 🤝 Contribuciones
 
