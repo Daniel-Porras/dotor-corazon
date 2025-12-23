@@ -465,15 +465,6 @@ This system is a **research prototype**. Automatic diagnoses are **informative**
 
 ---
 
-## 🏆 Achievements
-
-- ✅ **1st place** - MedTech Hackathon 2024
-- ✅ **Honorable mention** - National Science Fair
-- ✅ **Paper accepted** - IEEE EMBC 2025 Conference
-- ✅ **Patent pending** - Diagnostic algorithm
-
----
-
 ## 📊 Project Stats
 
 ```
